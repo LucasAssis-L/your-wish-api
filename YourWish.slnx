@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="YourWish.AppHost/YourWish.AppHost.csproj" />
+  <Project Path="YourWish.ServiceDefaults/YourWish.ServiceDefaults.csproj" />
+  <Project Path="YourWish/YourWish.csproj" />
+</Solution>
